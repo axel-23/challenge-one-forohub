@@ -1,5 +1,24 @@
 ## API REST para un Foro usando Spring Boot | Challenge Foro Hub
 
+### Colección de Postman
+
+Para facilitar la prueba de los endpoints de esta API, puedes importar la colección de Postman que contiene todas las solicitudes configuradas:
+
+[Descargar Colección de Postman](https://github.com/axel-23/challenge-one-forohub/blob/main/ForoHub.postman_collection.json)
+
+#### Instrucciones de Uso:
+
+1. **Descarga** la colección de Postman desde el enlace proporcionado.
+2. **Importa** la colección en tu cliente de Postman:
+   - Abre Postman.
+   - En la barra lateral izquierda, haz clic en el botón "Importar" para abrir el menú de importación.
+   - Selecciona el archivo JSON que acabas de descargar.
+3. Una vez importada, verás la colección "Foro Hub API" en tu barra lateral de Postman.
+4. **Configura las variables** necesarias como la URL base (`{{baseurl}}`) para apuntar a tu servidor local o a la URL de producción de la API.
+5. **Realiza las solicitudes** a los diferentes endpoints (GET, POST, DELETE) para interactuar con la API y probar su funcionamiento.
+
+---
+
 ### Configuración y Desarrollo
 
 1. **Clonar el Repositorio**: Abrir una terminal (o CMD) y clona el repositorio Challenge ONE Literalura desde GitHub:
