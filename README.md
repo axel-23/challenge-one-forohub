@@ -14,7 +14,7 @@ Para facilitar la prueba de los endpoints de esta API, puedes importar la colecc
    - En la barra lateral izquierda, haz clic en el botón "Importar" para abrir el menú de importación.
    - Selecciona el archivo JSON que acabas de descargar.
 3. Una vez importada, verás la colección "Foro Hub API" en tu barra lateral de Postman.
-4. **Configura las variables** necesarias como la URL base (`{{baseurl}}`) para apuntar a tu servidor local o a la URL de producción de la API.
+4. **Configura las variables** necesarias como la URL base (`{{baseurl}}`) para apuntar a tu servidor local (http://localhost:8080) o a la URL de producción de la API.
 5. **Realiza las solicitudes** a los diferentes endpoints (GET, POST, DELETE) para interactuar con la API y probar su funcionamiento.
 
 ---
